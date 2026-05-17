@@ -1,0 +1,7 @@
+oracledb>=2.4.1
+python-dotenv>=1.0.1
+requests>=2.32.3
+Flask>=3.0.3
+slack-sdk>=3.33.1
+redis>=5.0.8
+rq>=1.16.2
